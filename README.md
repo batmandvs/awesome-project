@@ -1,5 +1,2 @@
-Ricky hananditya r
-225411017
-if k1
-hai
+Ini isi proyek 
 # awesome-project
